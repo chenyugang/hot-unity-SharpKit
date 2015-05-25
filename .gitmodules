@@ -10,10 +10,6 @@
 	path = external/cecil
 	url = https://github.com/jbevain/cecil
 	ignore = dirty
-[submodule "SDK"]
-	path = SDK
-	url = https://github.com/SharpKit/SharpKit-SDK.git
-	ignore = dirty
 [submodule "external/SharpZipLib"]
 	path = external/SharpZipLib
 	url = https://github.com/Arakis/SharpZipLib.git
@@ -21,8 +17,4 @@
 [submodule "external/AjaxMin"]
 	path = external/AjaxMin
 	url = https://github.com/chenyugang/AjaxMin.git
-	ignore = dirty
-[submodule "external/octokit.net"]
-	path = external/octokit.net
-	url = https://github.com/Arakis/octokit.net.git
 	ignore = dirty
